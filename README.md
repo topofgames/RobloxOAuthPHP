@@ -1,8 +1,8 @@
-# Roblox OAuth PHP Library
+# Roblox OAuth2 PHP Library
 
 A PHP library to handle Roblox OAuth2.0 authentication and send messages to Universe Messaging Service.
 
-Demo : <a href="https://roblox.how/auth">Roblox.How/auth</a>
+Demo : <a href="https://roblox.how/">Roblox.How</a>
 
 ## Features
 
